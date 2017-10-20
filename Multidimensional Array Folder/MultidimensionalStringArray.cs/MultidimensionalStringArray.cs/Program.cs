@@ -50,6 +50,7 @@ namespace MultidimensionalStringArray.cs
                         }
                     }
                 }
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine();
             }
 
